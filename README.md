@@ -36,4 +36,4 @@ No me quedo solo en el código — me interesa entender el problema antes de esc
 
 ¿Tienes un problema interesante para resolver? Escríbeme:
 `tellez.de.la.cruz.esaul@gmail.com`
-Vista previa del archivo README.md 
+
