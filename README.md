@@ -12,19 +12,19 @@ No me quedo solo en el código — me interesa entender el problema antes de esc
 ## 🛠️ Tecnologías que uso
 
 **Frontend**
-`React.js` `Next.js` `JavaScript`  `Tailwind` `Bootstrap`
+`React.js`  `JavaScript`  `Tailwind` `Bootstrap`
 
 **Backend & BD**
 `Node.js`  `PostgreSQL` `Supabase` `MySQL` `REST APIs`
 
 **Herramientas**
-`Git` `GitHub` `Figma` `VS Code` `n8n`
+`Git` `GitHub` `Figma` `VS Code` `n8n`  `UML` `Postman` `Power BI`  `Power BI`
 
 ---
 
 ##  En lo que estoy trabajando
 
-- Construyendo proyectos para aprender Docker y fundamentos de cloud
+- Analisis de datos con Python 
 - Explorando agentes de IA y automatización de flujos con n8n
 - Mejorando mi comprensión de arquitectura de sistemas
 
